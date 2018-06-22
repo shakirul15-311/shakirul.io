@@ -21,7 +21,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Mohammad Shakirul Islam',
     'I\'m an enthusiast in Data Science, I would like to see and solve things in umpteen way. I think it will help me to be a good Data Scientist.</a>',
-    'Currently I am doing my B.Sc. in Computer Science and Engineering at Daffodil International University.',
+    'Currently I am doing my B.Sc. in Computer Science and Engineering in Daffodil International University.',
     'Visit my profiles.',
     '<a target="_blank" href="https://twitter.com/imshakirul">twitter</a><br><a target="_blank" href="https://github.com/shakirul15-311">GitHub</a><br><a target="_blank" href="https://www.linkedin.com/in/shakirulis/">LinkedIn</a>',
     getCurrentTime(),
