@@ -1,5 +1,5 @@
 ## Personal portfolio website
-Mohammad Shakirul Islam
+Mohammad Shakirul Islam, 
 Email: shakirul15-311@diu.edu.bd
 
 **Copyright (c) 2018-2180**
